@@ -54,7 +54,7 @@ Flow chart is for submit number 1 (some few changes were not added here)
 ## How to run the program
 •	clone project
 
-  o	clone git : git clone
+  o	clone git : git clone  https://github.com/KUSALA-sura/Kitchen-Story-Phase4-project
   
 •	Import the “database\kitchen-story.sql” file to your database administration tool.
 
